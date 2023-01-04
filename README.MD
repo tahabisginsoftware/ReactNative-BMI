@@ -20,7 +20,7 @@ Alternatively, you can start both the server and the app up by: `npm run android
 
 # Download
 
-Download ReactNative-BMI [here](https://github.com/tahabisginsoftware/RandomRecipes/releases/tag/release).
+Download ReactNative-BMI [here](https://github.com/tahabisginsoftware/ReactNative-BMI/releases/tag/release).
 
 # Screenshots
 <img align="left" alt="bmi1" src="https://github.com/tahabisginsoftware/ReactNative-BMI/blob/master/assets/screen_one.png" width="300"/>
