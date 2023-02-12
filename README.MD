@@ -1,6 +1,6 @@
 ![ReactNative-BMI](https://github.com/tahabisginsoftware/ReactNative-BMI/blob/master/assets/github%20cover.png "ReactNative-BMI")
 
-Random Recipes.<br>
+BMI-Calculator.<br>
 Made by [Taha Bisgin](https://tahabisginsoftware.com).
 
 # Setup
