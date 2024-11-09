@@ -1,7 +1,7 @@
 ![ReactNative-BMI](https://github.com/tahabisginsoftware/ReactNative-BMI/blob/master/assets/github%20cover.png "ReactNative-BMI")
 
 BMI-Calculator.<br>
-Made by [Taha Bisgin](https://tahabisginsoftware.com).
+Made by [Taha Bisgin](https://tbsvsn.com).
 
 # Setup
 
@@ -26,4 +26,4 @@ Download ReactNative-BMI [here](https://github.com/tahabisginsoftware/ReactNativ
 <img align="left" alt="bmi1" src="https://github.com/tahabisginsoftware/ReactNative-BMI/blob/master/assets/screen_one.png" width="300"/>
 <img align="left" alt="bmi2" src="https://github.com/tahabisginsoftware/ReactNative-BMI/blob/master/assets/screen_two.png" width="300"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-©TahaBisginSoftware, all rights reserved.
+©Taha Bisgin, all rights reserved.
